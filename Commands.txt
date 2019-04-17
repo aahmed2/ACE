@@ -10,3 +10,5 @@ git remote add origin <link> # to remote connection for the repository
 git commit -m "commit message"   # to commit to save
 
 git push -u origin master 	# push changes and file to repository final step
+
+git pull -u origin master # to pull changes from the repository to computer files
