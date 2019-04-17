@@ -1,14 +1,14 @@
-git init   # to initialize the git repository on computer
-git add filename # to track file or to stage a specific file
-git add .    # to stage all the files in folder
+git init			# to initialize the git repository on computer
+git add filename		# to track file or to stage a specific file
+git add .			# to stage all the files in folder
 
 
-git clone <link>    	# to clone the repository from the link provided
+git clone <link>    		# to clone the repository from the link provided
 
-git remote add origin <link> # to remote connection for the repository
+git remote add origin <link> 	# to remote connection for the repository
 
-git commit -m "commit message"   # to commit to save
+git commit -m "commit message"	# to commit to save
 
 git push -u origin master 	# push changes and file to repository final step
 
-git pull origin master # to pull changes from the repository to computer files
+git pull origin master		# to pull changes from the repository to computer files
