@@ -2,3 +2,6 @@ teach studetns
 I am changing the file text to test the pull command, how are you desktop computer?
 
 new changes 04/16/2019
+
+
+changes made on 04/17/2019
